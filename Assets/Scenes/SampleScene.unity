@@ -807,7 +807,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 37178384671105088, guid: bb769c3baa056674596835349728f08e, type: 3}
       propertyPath: m_Name
-      value: mejedo_card (1)
+      value: nico
       objectReference: {fileID: 0}
     - target: {fileID: 37178384671105089, guid: bb769c3baa056674596835349728f08e, type: 3}
       propertyPath: m_Pivot.x
