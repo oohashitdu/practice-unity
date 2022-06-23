@@ -244,6 +244,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1618301334}
     m_Modifications:
+    - target: {fileID: 37178383777465366, guid: bb769c3baa056674596835349728f08e, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 482.11353
+      objectReference: {fileID: 0}
+    - target: {fileID: 37178383777465366, guid: bb769c3baa056674596835349728f08e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 17.094326
+      objectReference: {fileID: 0}
+    - target: {fileID: 37178383777465367, guid: bb769c3baa056674596835349728f08e, type: 3}
+      propertyPath: m_Text
+      value: '10000
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 37178384671105088, guid: bb769c3baa056674596835349728f08e, type: 3}
       propertyPath: m_Name
       value: mejedo_card
@@ -326,7 +340,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 37178384671105089, guid: bb769c3baa056674596835349728f08e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 120
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 37178384671105089, guid: bb769c3baa056674596835349728f08e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
